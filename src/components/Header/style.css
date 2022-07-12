@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+.header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem;
+  background-color: rgb(132, 182, 203);
+}
+
+.header h1 {
+  font-size: xx-large;
+  font-family: "Permanent Marker", "Trebuchet MS", "Lucida Sans Unicode",
+    "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  color: rgb(227, 93, 16);
+}
+
+.header p {
+  font-size: smaller;
+  color: white;
+}
+
+.header a {
+  color: rgba(0, 0, 0, 50%);
+}
+
+.header nav button a {
+  color: black;
+}
+
+.li_avatar {
+  text-align: center;
+}

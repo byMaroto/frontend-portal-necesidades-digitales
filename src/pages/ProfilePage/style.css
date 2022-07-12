@@ -1,0 +1,15 @@
+.user_info .avatar {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.delete_user h2 {
+  color: black;
+}
+
+.user_info h2 {
+  color: black;
+}
+.user > h2 {
+  font-size: xx-large;
+}

@@ -1,0 +1,12 @@
+.services_list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 0 4rem;
+  padding-bottom: 2rem;
+}
+
+.services_list li {
+  flex-basis: 0;
+}

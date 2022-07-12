@@ -1,0 +1,6 @@
+.comment_info {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 40%);
+  border-radius: 5px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
